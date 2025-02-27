@@ -1,0 +1,2 @@
+git remote add origin git@github.com:AI4Catalysis/test_1.git
+git push -u origin "sub"
